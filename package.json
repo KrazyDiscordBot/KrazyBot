@@ -1,0 +1,23 @@
+{
+  "name": "krazyback",
+  "version": "1.9.9",
+  "description": "Backend of krazy bot",
+  "main": "server.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "canvas": "^2.8.0",
+    "discord.js": "^13.0.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "gibberish-detector": "^1.0.0",
+    "links-finder": "^1.0.0",
+    "mathjs": "^9.4.4",
+    "mongoose": "^5.13.6"
+  },
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "author": "shisui",
+  "license": "ISC"
+}
