@@ -1,7 +1,7 @@
 {
-  "name": "krazyback",
+  "name": "krazy bot",
   "version": "1.9.9",
-  "description": "Backend of krazy bot",
+  "description": "krazy bot",
   "main": "server.js",
   "dependencies": {
     "axios": "^0.21.1",
@@ -19,5 +19,5 @@
     "start": "node server.js"
   },
   "author": "shisui",
-  "license": "ISC"
+  "license": "Apache-2.0"
 }
